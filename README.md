@@ -4,15 +4,15 @@
 
 
 ## Team Name
-Name  
+Lyra
 
 # Team Member
-Member 1 Github Link
+Evan Augustion
 
-MEmber 2 Github Link
+Dia Promod
 
 ## Idea
-Breif Idea in two three sentences 
+PickOnGo is an online food delivery site to access affordable food and earn extra income.Students place orders through the PickOnGo website. Nearby registered CETians will receive notifications about available orders. They can choose to accept the order and once both party agrees order is confirmed.
 
 ## Features 
 1. 
